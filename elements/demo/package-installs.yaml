@@ -1,4 +1,6 @@
+xserver-xorg:
 nuttcp:
 ostinato:
 xfce4:
+xserver-xorg-video-qxl:
 vim:
