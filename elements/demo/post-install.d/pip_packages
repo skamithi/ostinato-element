@@ -1,0 +1,4 @@
+#!/bin/bash
+
+pip install netshow-linux-lib
+pip install python-ostinato
