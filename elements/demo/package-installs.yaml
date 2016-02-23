@@ -1,6 +1,10 @@
+iputils-ping:
+iperf:
 xserver-xorg:
+xserver-xorg-video-qxl:
+xinit:
+xfce4:
+xfce4-terminal:
 nuttcp:
 ostinato:
-xfce4:
-xserver-xorg-video-qxl:
 vim:
